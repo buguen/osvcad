@@ -7,7 +7,7 @@ Osvcad
 
    Current state of Osvcad capabilities
 
-Warning : work in progress. Very very early stage of development
+Warning : work in progress. Very early stage of development
 
 **Osvcad** is a CAD system that models systems using Acyclic Directed Graphs of heterogeneous geometrical entities.
 
